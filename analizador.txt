@@ -1,0 +1,974 @@
+Token: import
+AFDs: 
+Identificador
+Reservada
+Token: java.util.ArrayList
+AFDs: 
+Metodo
+Token: ;
+AFDs: 
+Control
+Token: public
+AFDs: 
+Identificador
+Reservada
+Token: class
+AFDs: 
+Identificador
+Reservada
+Token: constantesJava
+AFDs: 
+Identificador
+Token: {
+AFDs: 
+Control
+Token: private
+AFDs: 
+Identificador
+Reservada
+Token: native
+AFDs: 
+Identificador
+Reservada
+Token: int
+AFDs: 
+Identificador
+Reservada
+Token: c
+AFDs: 
+Identificador
+Token: (
+AFDs: 
+Control
+Token: )
+AFDs: 
+Control
+Token: ;
+AFDs: 
+Control
+Token: public
+AFDs: 
+Identificador
+Reservada
+Token: static
+AFDs: 
+Identificador
+Reservada
+Token: void
+AFDs: 
+Identificador
+Reservada
+Token: main
+AFDs: 
+Identificador
+Token: (
+AFDs: 
+Control
+Token: String
+AFDs: 
+Identificador
+Token: [
+AFDs: 
+Control
+Token: ]
+AFDs: 
+Control
+Token: args
+AFDs: 
+Identificador
+Token: )
+AFDs: 
+Control
+Token: {
+AFDs: 
+Control
+Token: double
+AFDs: 
+Identificador
+Reservada
+Token: d
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 123Df
+AFDs: 
+Token: ;
+AFDs: 
+Control
+Token: int
+AFDs: 
+Identificador
+Reservada
+Token: octal1
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 05458
+AFDs: 
+Token: octal3
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: -045
+AFDs: 
+Constante
+Token: ;
+AFDs: 
+Control
+Token: int
+AFDs: 
+Identificador
+Reservada
+Token: hexadecimal1
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 0x343feDa
+AFDs: 
+Constante
+Token: hexadecimal2
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: +
+AFDs: 
+Operadores
+Token: 0x034a
+AFDs: 
+Constante
+Token: ;
+AFDs: 
+Control
+Token: double
+AFDs: 
+Identificador
+Reservada
+Token: real1
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: -045.45d
+AFDs: 
+Constante
+Metodo
+Token: real2
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: +
+AFDs: 
+Operadores
+Token: 545.454e-45
+AFDs: 
+Constante
+Metodo
+Token: ;
+AFDs: 
+Control
+Token: int
+AFDs: 
+Identificador
+Reservada
+Token: a
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 10
+AFDs: 
+Constante
+Token: b
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 10
+AFDs: 
+Constante
+Token: c
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 56
+AFDs: 
+Constante
+Token: ;
+AFDs: 
+Control
+Token: c
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: -124
+AFDs: 
+Constante
+Token: %
+AFDs: 
+Operadores
+Token: 14
+AFDs: 
+Constante
+Token: ;
+AFDs: 
+Control
+Token: System.out.println
+AFDs: 
+Metodo
+Token: (
+AFDs: 
+Control
+Token: "dded"
+AFDs: 
+Cadenas
+Token: (
+AFDs: 
+Control
+Token: 117.2
+AFDs: 
+Constante
+Metodo
+Token: /
+AFDs: 
+Operadores
+Token: 0xf
+AFDs: 
+Constante
+Token: )
+AFDs: 
+Control
+Token: +
+AFDs: 
+Operadores
+Token: "bed"
+AFDs: 
+Cadenas
+Token: (
+AFDs: 
+Control
+Token: true
+AFDs: 
+Identificador
+Token: )
+AFDs: 
+Control
+Token: )
+AFDs: 
+Control
+Token: ;
+AFDs: 
+Control
+Token: int
+AFDs: 
+Identificador
+Reservada
+Token: e
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 45
+AFDs: 
+Constante
+Token: ;
+AFDs: 
+Control
+Token: for
+AFDs: 
+Identificador
+Reservada
+Token: (
+AFDs: 
+Control
+Token: int
+AFDs: 
+Identificador
+Reservada
+Token: k
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 0
+AFDs: 
+Constante
+Token: ;
+AFDs: 
+Control
+Token: k
+AFDs: 
+Identificador
+Token: !=
+AFDs: 
+Comparadores
+Token: (
+AFDs: 
+Control
+Token: 3
+AFDs: 
+Constante
+Token: +
+AFDs: 
+Operadores
+Token: 4
+AFDs: 
+Constante
+Token: )
+AFDs: 
+Control
+Token: ;
+AFDs: 
+Control
+Token: k
+AFDs: 
+Identificador
+Token: +
+AFDs: 
+Operadores
+Token: +
+AFDs: 
+Operadores
+Token: )
+AFDs: 
+Control
+Token: {
+AFDs: 
+Control
+Token: System.out.println
+AFDs: 
+Metodo
+Token: (
+AFDs: 
+Control
+Token: k
+AFDs: 
+Identificador
+Token: )
+AFDs: 
+Control
+Token: ;
+AFDs: 
+Control
+Token: }
+AFDs: 
+Control
+Token: int
+AFDs: 
+Identificador
+Reservada
+Token: dedl.de.redr.dre
+AFDs: 
+Metodo
+Token: =
+AFDs: 
+Comparadores
+Token: 4
+AFDs: 
+Constante
+Token: ;
+AFDs: 
+Control
+Token: /*
+			comentario
+			de 
+			bloque
+		*/
+AFDs: 
+Comentarios
+Token: bool
+AFDs: 
+Identificador
+Token: 2_idvar
+AFDs: 
+Token: ;
+AFDs: 
+Control
+Token: if
+AFDs: 
+Identificador
+Reservada
+Token: (
+AFDs: 
+Control
+Token: a
+AFDs: 
+Identificador
+Token: &
+AFDs: 
+Control
+Token: &
+AFDs: 
+Control
+Token: 4
+AFDs: 
+Constante
+Token: |
+AFDs: 
+Control
+Token: |
+AFDs: 
+Control
+Token: B
+AFDs: 
+Identificador
+Token: ==
+AFDs: 
+Comparadores
+Token: 4
+AFDs: 
+Constante
+Token: &
+AFDs: 
+Control
+Token: &
+AFDs: 
+Control
+Token: c
+AFDs: 
+Identificador
+Token: !=
+AFDs: 
+Comparadores
+Token: r
+AFDs: 
+Identificador
+Token: |
+AFDs: 
+Control
+Token: |
+AFDs: 
+Control
+Token: !
+AFDs: 
+Control
+Token: true
+AFDs: 
+Identificador
+Token: |
+AFDs: 
+Control
+Token: |
+AFDs: 
+Control
+Token: c
+AFDs: 
+Identificador
+Token: <=
+AFDs: 
+Comparadores
+Token: 6666r
+AFDs: 
+Token: )
+AFDs: 
+Control
+Token: int
+AFDs: 
+Identificador
+Reservada
+Token: dewd
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: de
+AFDs: 
+Identificador
+Token: ;
+AFDs: 
+Control
+Token: //comentario de linea
+AFDs: 
+Comentarios
+Token: switch
+AFDs: 
+Identificador
+Reservada
+Token: (
+AFDs: 
+Control
+Token: dewd
+AFDs: 
+Identificador
+Token: )
+AFDs: 
+Control
+Token: {
+AFDs: 
+Control
+Token: case
+AFDs: 
+Identificador
+Reservada
+Token: 56rg
+AFDs: 
+Token: :
+AFDs: 
+Control
+Token: c
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 0
+AFDs: 
+Constante
+Token: ;
+AFDs: 
+Control
+Token: break
+AFDs: 
+Identificador
+Reservada
+Token: ;
+AFDs: 
+Control
+Token: case
+AFDs: 
+Identificador
+Reservada
+Token: 644.4e-4.3
+AFDs: 
+Metodo
+Token: :
+AFDs: 
+Control
+Token: d
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 78.44
+AFDs: 
+Constante
+Metodo
+Token: ;
+AFDs: 
+Control
+Token: break
+AFDs: 
+Identificador
+Reservada
+Token: ;
+AFDs: 
+Control
+Token: default
+AFDs: 
+Identificador
+Reservada
+Token: :
+AFDs: 
+Control
+Token: c
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 0
+AFDs: 
+Constante
+Token: ;
+AFDs: 
+Control
+Token: break
+AFDs: 
+Identificador
+Reservada
+Token: ;
+AFDs: 
+Control
+Token: }
+AFDs: 
+Control
+Token: float
+AFDs: 
+Identificador
+Reservada
+Token: prom
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: (
+AFDs: 
+Control
+Token: float
+AFDs: 
+Identificador
+Reservada
+Token: )
+AFDs: 
+Control
+Token: 0.0
+AFDs: 
+Constante
+Metodo
+Token: ;
+AFDs: 
+Control
+Token: double
+AFDs: 
+Identificador
+Reservada
+Token: val
+AFDs: 
+Identificador
+Token: ;
+AFDs: 
+Control
+Token: double
+AFDs: 
+Identificador
+Reservada
+Token: PI
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 3.1416
+AFDs: 
+Constante
+Metodo
+Token: ;
+AFDs: 
+Control
+Token: for
+AFDs: 
+Identificador
+Reservada
+Token: (
+AFDs: 
+Control
+Token: int
+AFDs: 
+Identificador
+Reservada
+Token: i
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 1
+AFDs: 
+Constante
+Token: ;
+AFDs: 
+Control
+Token: i
+AFDs: 
+Identificador
+Token: <
+AFDs: 
+Comparadores
+Token: 100
+AFDs: 
+Constante
+Token: ;
+AFDs: 
+Control
+Token: i
+AFDs: 
+Identificador
+Token: +
+AFDs: 
+Operadores
+Token: +
+AFDs: 
+Operadores
+Token: )
+AFDs: 
+Control
+Token: {
+AFDs: 
+Control
+Token: prom
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: var
+AFDs: 
+Identificador
+Token: +
+AFDs: 
+Operadores
+Token: 4
+AFDs: 
+Constante
+Token: ;
+AFDs: 
+Control
+Token: }
+AFDs: 
+Control
+Token: val
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: prom
+AFDs: 
+Identificador
+Token: *
+AFDs: 
+Operadores
+Token: dewd
+AFDs: 
+Identificador
+Token: *
+AFDs: 
+Operadores
+Token: c
+AFDs: 
+Identificador
+Token: ;
+AFDs: 
+Control
+Token: System.out.println
+AFDs: 
+Metodo
+Token: (
+AFDs: 
+Control
+Token: "Prom = "
+AFDs: 
+Cadenas
+Token: (
+AFDs: 
+Control
+Token: prom
+AFDs: 
+Identificador
+Token: /
+AFDs: 
+Operadores
+Token: PI
+AFDs: 
+Identificador
+Token: )
+AFDs: 
+Control
+Token: +
+AFDs: 
+Operadores
+Token: "Result: "
+AFDs: 
+Cadenas
+Token: (
+AFDs: 
+Control
+Token: val
+AFDs: 
+Identificador
+Token: *
+AFDs: 
+Operadores
+Token: 0xAxB
+AFDs: 
+Token: )
+AFDs: 
+Control
+Token: )
+AFDs: 
+Control
+Token: ;
+AFDs: 
+Control
+Token: double
+AFDs: 
+Identificador
+Reservada
+Token: d
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 56e35.w
+AFDs: 
+Metodo
+Token: ;
+AFDs: 
+Control
+Token: double
+AFDs: 
+Identificador
+Reservada
+Token: i
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: -0045.45
+AFDs: 
+Constante
+Metodo
+Token: ;
+AFDs: 
+Control
+Token: System.out.println
+AFDs: 
+Metodo
+Token: (
+AFDs: 
+Control
+Token: i
+AFDs: 
+Identificador
+Token: )
+AFDs: 
+Control
+Token: ;
+AFDs: 
+Control
+Token: if
+AFDs: 
+Identificador
+Reservada
+Token: (
+AFDs: 
+Control
+Token: a
+AFDs: 
+Identificador
+Token: ==
+AFDs: 
+Comparadores
+Token: 4
+AFDs: 
+Constante
+Token: &
+AFDs: 
+Control
+Token: &
+AFDs: 
+Control
+Token: c
+AFDs: 
+Identificador
+Token: !=
+AFDs: 
+Comparadores
+Token: 4
+AFDs: 
+Constante
+Token: &
+AFDs: 
+Control
+Token: &
+AFDs: 
+Control
+Token: b
+AFDs: 
+Identificador
+Token: <
+AFDs: 
+Comparadores
+Token: 5
+AFDs: 
+Constante
+Token: &
+AFDs: 
+Control
+Token: &
+AFDs: 
+Control
+Token: d
+AFDs: 
+Identificador
+Token: >
+AFDs: 
+Comparadores
+Token: 0
+AFDs: 
+Constante
+Token: &
+AFDs: 
+Control
+Token: &
+AFDs: 
+Control
+Token: f
+AFDs: 
+Identificador
+Token: <=
+AFDs: 
+Comparadores
+Token: 4
+AFDs: 
+Constante
+Token: &
+AFDs: 
+Control
+Token: &
+AFDs: 
+Control
+Token: g
+AFDs: 
+Identificador
+Token: >=
+AFDs: 
+Comparadores
+Token: 5
+AFDs: 
+Constante
+Token: )
+AFDs: 
+Control
+Token: {
+AFDs: 
+Control
+Token: f
+AFDs: 
+Identificador
+Token: =
+AFDs: 
+Comparadores
+Token: 4
+AFDs: 
+Constante
+Token: ;
+AFDs: 
+Control
+Token: }
+AFDs: 
+Control
+Token: }
+AFDs: 
+Control
+Token: }
+AFDs: 
+Control
+Token: }
+AFDs: 
+Control
